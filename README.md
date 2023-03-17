@@ -4,7 +4,13 @@ Hi 👋 My name is Milovan
 Web Developer & Software Engineer
 ---------------------------------
 
-I'm a front-end web developer with 3 years of experience. I specialize in using VanillaJS, ReactJS, and NodeJS to create dynamic and engaging user interfaces. I'm also well-versed in object-oriented programming, having worked extensively with C, C++, and C#. In addition to my front-end development skills, I have a strong IT background and am familiar with a wide range of technologies and programming languages. I'm particularly skilled in MySQL, having used it in my previous projects. I'm passionate about creating intuitive and responsive web applications that provide a seamless user experience. I'm always looking for new challenges and opportunities to expand my skill set, and I'm excited to collaborate with other developers on innovative projects. Thank you for checking out my profile, and feel free to reach out if you'd like to chat or collaborate on a project!
+I'm a front-end web developer with 3 years of experience. I specialize in using VanillaJS, ReactJS, and NodeJS to create dynamic and engaging user interfaces. I'm also well-versed in object-oriented programming, having worked extensively with C, C++, and C#. 
+
+In addition to my front-end development skills, I have a strong IT background and am familiar with a wide range of technologies and programming languages. I'm particularly skilled in MySQL, having used it in my previous projects. 
+
+I'm passionate about creating intuitive and responsive web applications that provide a seamless user experience. I'm always looking for new challenges and opportunities to expand my skill set, and I'm excited to collaborate with other developers on innovative projects. 
+
+Thank you for checking out my profile, and feel free to reach out if you'd like to chat or collaborate on a project!
 
 * 🌍  I'm based in Serbia
 * ✉️  You can contact me at [milovanmilic98@gmail.com](mailto:milovanmilic98@gmail.com)
